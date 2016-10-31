@@ -1,3 +1,10 @@
+# What to we have here?
+
+- Angular 2 application.
+- Universal server side rendering.
+- Two Component's with SASS style loaded via Webpack (beta 25). 
+- ONLY SERVER SIDE RENDERING - HTML is served to the browser without any JS file.
+
 To run:
 
     $ npm install -g webpack rimraf nodemon node-nightly typescript
